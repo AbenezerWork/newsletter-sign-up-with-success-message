@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AbenezerWork/newsletter-sign-up-with-success-message.git)
-- Live Site URL: [Add live site URL here]()TODO
+- Solution URL: [Solution URL here](https://github.com/AbenezerWork/newsletter-sign-up-with-success-message.git)
+- Live Site URL: [Site URL here]()TODO
 
 ## My process
 
